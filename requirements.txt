@@ -1,0 +1,9 @@
+requests>=2.31
+numpy>=1.26
+scipy>=1.11
+pymupdf>=1.24
+pypdf>=4.0
+python-docx>=1.1
+openpyxl>=3.1
+# optional: CFA fit indices (chi2, CFI, TLI, RMSEA, SRMR) in analyze_sem.py cfa
+# semopy>=2.3

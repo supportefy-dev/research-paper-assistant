@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.key
+.env
+.env.*
+tests/_out/
+# a research project's own files never belong in the skill repo (root-level only;
+# tests/fixtures/sources.jsonl is a test fixture and stays tracked)
+/sources.jsonl
+/claims.jsonl
+/fulltext/
+/papers/
+/analysis/

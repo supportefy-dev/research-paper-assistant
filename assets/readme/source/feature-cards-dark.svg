@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="Research Paper Assistant features">
+<title>Research Paper Assistant features</title>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0v40" fill="none" stroke="#162229" stroke-width="1"/></pattern></defs>
+<rect width="1280" height="720" fill="#0B1217"/>
+<rect width="1280" height="720" fill="url(#grid)"/>
+<rect x="1.5" y="1.5" width="1277" height="717" rx="24" fill="none" stroke="#0E7C86" stroke-opacity="0.22" stroke-width="2"/>
+<rect x="72" y="189.0" width="352" height="342" rx="24" fill="#102128" stroke="#263238" stroke-width="1.5"/>
+<svg x="104" y="225.0" width="72" height="72" viewBox="0 0 48 48" preserveAspectRatio="xMidYMid meet"><rect width="48" height="48" rx="12" fill="#0E7C86"/><rect x="11" y="10" width="26" height="28" rx="2.5" fill="none" stroke="#0B1220" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M18 10v28" fill="none" stroke="#0B1220" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M23 18h8M23 24h8M23 30h5" fill="none" stroke="#0B1220" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<text x="104" y="347.0" fill="#E6EDF3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700">Verified sources</text>
+<text x="104" y="391.0" fill="#9AA6B0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400">A ledger that refuses fake,</text>
+<text x="104" y="421.0" fill="#9AA6B0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400">retracted and borrowed-</text>
+<text x="104" y="451.0" fill="#9AA6B0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400">locator references, with</text>
+<text x="104" y="481.0" fill="#9AA6B0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400">corrected APA.</text>
+<rect x="464" y="189.0" width="352" height="342" rx="24" fill="#102128" stroke="#263238" stroke-width="1.5"/>
+<svg x="496" y="225.0" width="72" height="72" viewBox="0 0 48 48" preserveAspectRatio="xMidYMid meet"><rect width="48" height="48" rx="12" fill="#0E7C86"/><circle cx="16" cy="20" r="4.5" fill="#0B1220"/><path d="M20.5 20c0 6-2.5 9.5-7 12" fill="none" stroke="#0B1220" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="31" cy="20" r="4.5" fill="#0B1220"/><path d="M35.5 20c0 6-2.5 9.5-7 12" fill="none" stroke="#0B1220" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<text x="496" y="347.0" fill="#E6EDF3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700">Quotes with pages</text>
+<text x="496" y="391.0" fill="#9AA6B0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400">Full texts fetched or</text>
+<text x="496" y="421.0" fill="#9AA6B0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400">supplied; every cited</text>
+<text x="496" y="451.0" fill="#9AA6B0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400">finding carries a verbatim</text>
+<text x="496" y="481.0" fill="#9AA6B0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400">quote and its page.</text>
+<rect x="856" y="189.0" width="352" height="342" rx="24" fill="#102128" stroke="#263238" stroke-width="1.5"/>
+<svg x="888" y="225.0" width="72" height="72" viewBox="0 0 48 48" preserveAspectRatio="xMidYMid meet"><rect width="48" height="48" rx="12" fill="#0E7C86"/><path d="M19 10l-2 28M31 10l-2 28" fill="none" stroke="#0B1220" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M11 19h27M10 29h27" fill="none" stroke="#0B1220" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<text x="888" y="347.0" fill="#E6EDF3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700">Audited numbers</text>
+<text x="888" y="391.0" fill="#9AA6B0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400">Each statistic in the text</text>
+<text x="888" y="421.0" fill="#9AA6B0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400">is matched to its own label</text>
+<text x="888" y="451.0" fill="#9AA6B0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400">in the analysis output. A</text>
+<text x="888" y="481.0" fill="#9AA6B0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400">flipped sign fails.</text>
+</svg>

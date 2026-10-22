@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Research Paper Assistant mark: a page with a verified check">
+  <rect width="48" height="48" rx="12" fill="#0E7C86"/>
+  <path d="M15 10h12l7 7v21a2 2 0 0 1-2 2H15a2 2 0 0 1-2-2V12a2 2 0 0 1 2-2z" fill="none" stroke="#0B1220" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M27 10v7h7" fill="none" stroke="#0B1220" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M18 23h12M18 28h12M18 33h7" stroke="#0B1220" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="34" cy="34" r="7.5" fill="#B5E2E6" stroke="#0B1220" stroke-width="2.5"/>
+  <path d="M30.5 34.2l2.4 2.4 4.6-4.8" fill="none" stroke="#0B1220" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

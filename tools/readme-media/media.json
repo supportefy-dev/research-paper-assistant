@@ -1,0 +1,56 @@
+{
+  "name": "Research Paper Assistant",
+  "repo": "supportefy-dev/research-paper-assistant",
+  "kicker": "RESEARCH PAPER ASSISTANT / CLAUDE CODE SKILL",
+  "headline": ["Papers that survive", "peer review."],
+  "sub": "Real sources, quoted findings, audited numbers.",
+  "chips": ["ARABIC + ENGLISH", "18 TOOLS", "FREE APIS"],
+  "font": "Segoe UI, Helvetica, Arial, sans-serif",
+  "mono": "Cascadia Code, Consolas, Menlo, monospace",
+  "palette": {
+    "accent": "#0E7C86",
+    "accent_soft": "#B5E2E6",
+    "light": {"bg": "#F7F9FA", "bg2": "#FFFFFF", "grid": "#E3E9EC", "card": "#EAF5F6", "line": "#D0D7DE", "ink": "#0B1220", "muted": "#59636E", "chip": "#DDEFF1"},
+    "dark":  {"bg": "#0B1217", "bg2": "#0D161C", "grid": "#162229", "card": "#102128", "line": "#263238", "ink": "#E6EDF3", "muted": "#9AA6B0", "chip": "#13343A"}
+  },
+  "mark": "assets/readme/mark.svg",
+  "hero_card": {
+    "type": "table",
+    "rows": [
+      ["references", "VERIFIED"],
+      ["retracted", "REMOVED"],
+      ["findings", "QUOTED"],
+      ["statistics", "TRACED"],
+      ["similarity", "PASS"]
+    ]
+  },
+  "how_it_works": {
+    "kicker": "HOW IT WORKS",
+    "title": "From gap to submission.",
+    "sub": "Every claim traces to a source, a quote or an analysis line.",
+    "steps": [
+      {"n": "01", "title": "GAP", "text": "Where studies disagree"},
+      {"n": "02", "title": "SOURCES", "text": "DOI-verified ledger"},
+      {"n": "03", "title": "DESIGN", "text": "Theory, scales, power"},
+      {"n": "04", "title": "ANALYSIS", "text": "Cleaned data, real output"},
+      {"n": "05", "title": "WRITE", "text": "Quotes and numbers audited"},
+      {"n": "06", "title": "SUBMIT", "text": "Panel review, right journal"}
+    ]
+  },
+  "quick_start": {
+    "title": "Quick start",
+    "sub": "Clone into your skills folder, install, then just ask.",
+    "commands": [
+      "cd ~/.claude/skills",
+      "git clone https://github.com/supportefy-dev/research-paper-assistant",
+      "pip install -r research-paper-assistant/requirements.txt",
+      "claude   # then: \"check my references\""
+    ]
+  },
+  "feature_cards": [
+    {"icon": "ledger", "title": "Verified sources", "text": "A ledger that refuses fake, retracted and borrowed-locator references, with corrected APA."},
+    {"icon": "quote", "title": "Quotes with pages", "text": "Full texts fetched or supplied; every cited finding carries a verbatim quote and its page."},
+    {"icon": "numbers", "title": "Audited numbers", "text": "Each statistic in the text is matched to its own label in the analysis output. A flipped sign fails."}
+  ],
+  "sizes": {"hero": [1280, 640], "social": [1280, 640], "how": [1600, 900], "card": [1280, 720], "scale": 2}
+}

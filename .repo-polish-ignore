@@ -1,0 +1,3 @@
+# Files the repo-polish dash scan skips: test fixtures that plant an em dash on purpose
+# (scholar.py audit must warn about it).
+tests/fixtures/*

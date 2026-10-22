@@ -9,7 +9,7 @@ Helps a real researcher produce a paper that survives peer review: a gap found w
 
 **Core principle: no source without a resolved DOI or ISBN, no finding without a verbatim quote, no number without analysis output, no submission without an AI disclosure.** Violating the letter of these rules is violating their spirit.
 
-All tools are free: OpenAlex (key on this PC), Crossref with Retraction Watch data, Semantic Scholar, Europe PMC, Unpaywall, DOAJ, Open Library, OpenReview and eLife open reviews, plus an SJR file the user downloads.
+All tools are free: OpenAlex (optional free key), Crossref with Retraction Watch data, Semantic Scholar, Europe PMC, Unpaywall, DOAJ, Open Library, OpenReview and eLife open reviews, plus an SJR file the user downloads.
 
 ## Step 0: who is the author?
 

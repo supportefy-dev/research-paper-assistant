@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="Research Paper Assistant quick start">
+<title>Research Paper Assistant quick start</title>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0v40" fill="none" stroke="#162229" stroke-width="1"/></pattern></defs>
+<rect width="1280" height="720" fill="#0B1217"/>
+<rect width="1280" height="720" fill="url(#grid)"/>
+<rect x="1.5" y="1.5" width="1277" height="717" rx="24" fill="none" stroke="#0E7C86" stroke-opacity="0.22" stroke-width="2"/>
+<g transform="translate(0 16)">
+<text x="72" y="130" fill="#E6EDF3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="800" letter-spacing="-1">Quick start</text>
+<text x="72" y="180" fill="#9AA6B0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="400">Clone into your skills folder, install, then just ask.</text>
+<svg x="1112" y="62" width="96" height="96" viewBox="0 0 48 48" preserveAspectRatio="xMidYMid meet">
+  <rect width="48" height="48" rx="12" fill="#0E7C86"/>
+  <path d="M15 10h12l7 7v21a2 2 0 0 1-2 2H15a2 2 0 0 1-2-2V12a2 2 0 0 1 2-2z" fill="none" stroke="#0B1220" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M27 10v7h7" fill="none" stroke="#0B1220" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M18 23h12M18 28h12M18 33h7" stroke="#0B1220" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="34" cy="34" r="7.5" fill="#B5E2E6" stroke="#0B1220" stroke-width="2.5"/>
+  <path d="M30.5 34.2l2.4 2.4 4.6-4.8" fill="none" stroke="#0B1220" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+<rect x="72" y="232" width="1136" height="384" rx="20" fill="#0D1117" stroke="#263238" stroke-width="1.5"/>
+<path d="M72 280H1208" stroke="#30363D" stroke-width="1"/>
+<circle cx="100" cy="256" r="7" fill="#4B5563"/>
+<circle cx="124" cy="256" r="7" fill="#6B7280"/>
+<circle cx="148" cy="256" r="7" fill="#9CA3AF"/>
+<text x="640.0" y="262" fill="#8B949E" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="14" font-weight="400" text-anchor="middle">terminal</text>
+<text x="108" y="338" fill="#62AAB0" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="22" font-weight="700">$</text>
+<text x="138" y="338" fill="#E6EDF3" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="22" font-weight="400">cd ~/.claude/skills</text>
+<text x="108" y="404" fill="#62AAB0" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="22" font-weight="700">$</text>
+<text x="138" y="404" fill="#E6EDF3" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="22" font-weight="400">git clone https://github.com/supportefy-dev/research-paper-assistant</text>
+<text x="108" y="470" fill="#62AAB0" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="22" font-weight="700">$</text>
+<text x="138" y="470" fill="#E6EDF3" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="22" font-weight="400">pip install -r research-paper-assistant/requirements.txt</text>
+<text x="108" y="536" fill="#62AAB0" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="22" font-weight="700">$</text>
+<text x="138" y="536" fill="#E6EDF3" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="22" font-weight="400">claude   # then: &quot;check my references&quot;</text>
+</g>
+</svg>
